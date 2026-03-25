@@ -1,7 +1,7 @@
-package thread;
+package thread.basic;
 
 // Thread class = Thread + Task together
-class MyThread extends Thread {
+class MyThreadClass extends Thread {
 
     @Override
     public void run() {

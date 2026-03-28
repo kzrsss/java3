@@ -46,10 +46,4 @@ Contributions are welcome! If you'd like to add examples or improve existing one
 4. Push to the branch: `git push origin feature/your-topic`
 5. Open a Pull Request
 
-
-## 👨‍💻 Author
-
-**Dilusha Madushan**
-- GitHub: [@dilushamadushan](https://github.com/dilushamadushan)
-
 > ⭐ If this project helped you learn Java, please give it a star!

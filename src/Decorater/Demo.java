@@ -17,5 +17,7 @@ public class Demo {
         // wraps that result with both DVD and SSD
         Laptop lsd = new LaptopDVD(new LaptopSSD(lp));
         System.out.println(lsd.showDescription());
+
+        //你是谁
     }
 }
